@@ -2004,6 +2004,18 @@ const HTML_CONTENT = `
     }
 
 
+    /* === 自定义隐藏模块 === */
+    .weather-mini {
+        display: none !important;
+    }
+
+    #hitokoto {
+        display: none !important;
+    }
+
+    .search-container {
+        display: none !important;
+    }
     </style>
 </head>
 
